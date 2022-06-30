@@ -1,0 +1,8 @@
+name = "rock-paper-scissors"
+type = "javascript"
+
+account_id = "b4d9203360257a178ab81f4cbf5db87d"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-06-29"
